@@ -1,0 +1,129 @@
+﻿addr;HEX val;ASCII val;type;value definition
+00;03;;Identifier;SFP or SFP+
+01;04;;Physical Device Identifier;Two Wire Interface
+02;07;;Connector;LC
+03;00;;Transcevier;
+04;00;;Transcevier;
+05;00;;Transcevier;
+06;00;;Transcevier;
+07;40;@;Transcevier;Short distance (S)
+08;40;@;Transcevier;Shortwave laser without OFC (SN)
+09;0C;;Transcevier;
+0A;70;p;Transcevier;
+0B;06;;Encoding;64B/66B
+0C;8C;;BR, Nominal;
+0D;0A;;Rate Identifier;Defined for FC-PI-5 (16/8/4G Independent Rx, Tx Rate_select) High=16G only, Low=8G/4G
+0E;00;;Length (SMF, km);
+0F;00;;Length (SMF);
+10;03;;Length (50um);
+11;01;;Length (62.5um);
+12;00;;Length (cable);
+13;0A;;Length (OM3);
+14;43;C;Vendor Name;
+15;49;I;Vendor Name;
+16;53;S;Vendor Name;
+17;43;C;Vendor Name;
+18;4F;O;Vendor Name;
+19;2D;-;Vendor Name;
+1A;41;A;Vendor Name;
+1B;56;V;Vendor Name;
+1C;41;A;Vendor Name;
+1D;47;G;Vendor Name;
+1E;4F;O;Vendor Name;
+1F;20;;Vendor Name;
+20;20;;Vendor Name;
+21;20;;Vendor Name;
+22;20;;Vendor Name;
+23;20;;Vendor Name;
+24;00;;Vendor OUI;
+25;00;;Vendor OUI;
+26;17;;Vendor OUI;
+27;6A;j;Vendor OUI;
+28;41;A;Vendor Part Number;
+29;46;F;Vendor Part Number;
+2A;42;B;Vendor Part Number;
+2B;52;R;Vendor Part Number;
+2C;2D;-;Vendor Part Number;
+2D;35;5;Vendor Part Number;
+2E;37;7;Vendor Part Number;
+2F;46;F;Vendor Part Number;
+30;35;5;Vendor Part Number;
+31;50;P;Vendor Part Number;
+32;5A;Z;Vendor Part Number;
+33;2D;-;Vendor Part Number;
+34;43;C;Vendor Part Number;
+35;53;S;Vendor Part Number;
+36;31;1;Vendor Part Number;
+37;20;;Vendor Part Number;
+38;42;B;Vendor rev;
+39;32;2;Vendor rev;
+3A;20;;Vendor rev;
+3A;20;;Vendor rev;
+3C;03;;WaveLength;
+3D;52;R;WaveLength;
+3E;00;;Unallocated;
+3F;D7;Ú;CC_BASE;
+40;00;;Options;
+41;3A;:;Options;
+42;00;;BR, max;
+43;00;;BR, max;
+44;41;A;Vendor Serial Number;
+45;56;V;Vendor Serial Number;
+46;4A;J;Vendor Serial Number;
+47;31;1;Vendor Serial Number;
+48;39;9;Vendor Serial Number;
+49;33;3;Vendor Serial Number;
+4A;33;3;Vendor Serial Number;
+4B;4A;J;Vendor Serial Number;
+4C;56;V;Vendor Serial Number;
+4D;42;B;Vendor Serial Number;
+4E;31;1;Vendor Serial Number;
+4F;20;;Vendor Serial Number;
+50;20;;Vendor Serial Number;
+51;20;;Vendor Serial Number;
+52;20;;Vendor Serial Number;
+53;20;;Vendor Serial Number;
+54;31;1;Date Code;
+55;31;1;Date Code;
+56;30;0;Date Code;
+57;38;8;Date Code;
+58;31;1;Date Code;
+59;35;5;Date Code;
+5A;20;;Date Code;
+5B;20;;Date Code;
+5C;68;h;Diagnostic Monitoring Type;
+5D;FA;ú;Enhanced Options;
+5E;05;;SFF-8472 Compliance;Includes functionality described in Rev 11.0 of SFF-8472.
+5F;79;y;CC_EXT;
+60;00;;Vendor Specific;
+61;00;;Vendor Specific;
+62;06;;Vendor Specific;Cisco vendor ID
+63;E4;ä;Vendor Specific;MD5 sum of data for Cisco
+64;52;R;Vendor Specific;MD5 sum of data for Cisco
+65;53;S;Vendor Specific;MD5 sum of data for Cisco
+66;D5;Õ;Vendor Specific;MD5 sum of data for Cisco
+67;54;T;Vendor Specific;MD5 sum of data for Cisco
+68;C8;È;Vendor Specific;MD5 sum of data for Cisco
+69;EE;î;Vendor Specific;MD5 sum of data for Cisco
+6A;16;;Vendor Specific;MD5 sum of data for Cisco
+6B;DA;Ú;Vendor Specific;MD5 sum of data for Cisco
+6C;8E;;Vendor Specific;MD5 sum of data for Cisco
+6D;A6;¦;Vendor Specific;MD5 sum of data for Cisco
+6E;37;7;Vendor Specific;MD5 sum of data for Cisco
+6F;13;;Vendor Specific;MD5 sum of data for Cisco
+70;F1;ñ;Vendor Specific;MD5 sum of data for Cisco
+71;35;5;Vendor Specific;MD5 sum of data for Cisco
+72;88;;Vendor Specific;MD5 sum of data for Cisco
+73;00;;Vendor Specific;
+74;00;;Vendor Specific;
+75;00;;Vendor Specific;
+76;00;;Vendor Specific;
+77;00;;Vendor Specific;
+78;00;;Vendor Specific;
+79;00;;Vendor Specific;
+7A;00;;Vendor Specific;
+7B;00;;Vendor Specific;
+7C;33;3;Vendor Specific;CRC32 of block 0x60-7B LE
+7D;2C;,;Vendor Specific;CRC32 of block 0x60-7B LE
+7E;46;F;Vendor Specific;CRC32 of block 0x60-7B LE
+7F;B2;²;Vendor Specific;CRC32 of block 0x60-7B LE
